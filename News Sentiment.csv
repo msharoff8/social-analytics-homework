@@ -1,0 +1,590 @@
+,Compound Sentiment,Negative Sentiment,Neutral Sentiment,Outlet,Positive Sentiment,Text,Tweet Number
+0,-0.7717,0.489,0.511,BBCNews,0.0,Two men dead after Edgware 'carbon monoxide leak' https://t.co/RLLdCv2WM7,1
+1,0.7003,0.0,0.746,BBCNews,0.254,"RT @BBCSport: Day 4 - Commonwealth Games #GC2018 
+
+Rhys McClenaghan secured Northern Ireland's first medal of the 2018 Commonwealth Games 🏅…",2
+2,-0.872,0.553,0.447,BBCNews,0.0,"Hackney stabbing: Second stab death suspect 'at large', police say https://t.co/UBc0z1ANNG",3
+3,0.0,0.0,1.0,BBCNews,0.0,RT @BBC_HaveYourSay: Are you coming to Windsor to watch the #RoyalWedding in May? Where are you travelling from? Would you consider yoursel…,4
+4,-0.4588,0.231,0.769,BBCNews,0.0,Sunday Times' Rod Liddell 'mocks Wales' over Severn crossing renaming https://t.co/2hok9ikQQi,5
+5,-0.5106,0.323,0.677,BBCNews,0.0,Fishermen protest over lack of control of UK waters post-Brexit https://t.co/jQRhEijGcD,6
+6,0.0,0.0,1.0,BBCNews,0.0,UK wife-carrying contest takes place in Dorking https://t.co/wGxmIhLeg3,7
+7,0.7003,0.0,0.746,BBCNews,0.254,"RT @BBCSport: Day 4 - Commonwealth Games #GC2018 
+
+Rhys McClenaghan secured Northern Ireland's first medal of the 2018 Commonwealth Games 🏅…",8
+8,-0.1531,0.127,0.873,BBCNews,0.0,Tony Blair believes NI deal 'still possible' but warns over Brexit https://t.co/2fh7fSuWfN,9
+9,-0.4019,0.231,0.769,BBCNews,0.0,Man injured wrestling Derbyshire ram calls it 'public nuisance' https://t.co/jATTw9Hj9s,10
+10,0.6249,0.0,0.579,BBCNews,0.421,Prince Charles reunited with fan who stole a kiss https://t.co/15fUOzfqr6,11
+11,0.0,0.0,1.0,BBCNews,0.0,Angela Rayner 'frustrated' over Labour anti-Semitism action https://t.co/J60EFbhlMj,12
+12,-0.0258,0.228,0.551,BBCNews,0.22,Arrests after Manchester City v Manchester United derby brawl https://t.co/zkSYfZJvlq,13
+13,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCNewsNI: Meet the County Down woman who's the Dr Dolittle of the ocean
+https://t.co/79W82ys7Av https://t.co/JyW6A42ZJa",14
+14,-0.6124,0.385,0.615,BBCNews,0.0,Sarah Montague 'incandescent with rage' over BBC Radio 4 pay https://t.co/A9PmIUzo8Z,15
+15,0.4344,0.0,0.863,BBCNews,0.137,"RT @BBCSport: WHAT. A. SWIM!!! 🥇🥇🥇
+
+Scotland's Duncan Scott takes the GOLD in the Men's 100m freestyle final! 
+
+👉  https://t.co/WUhxF51QaY…",16
+16,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: It's a Games record for Kylie Masse - and a Canadian one-two in the women's 200m backstroke.
+
+Compatriot Taylor Ruck takes he…",17
+17,0.8016,0.0,0.736,BBCNews,0.264,"RT @BBCSportWales: It's a silver medal for Wales' Laura Daniels!
+
+New Zealand's Jo Edwards comes from behind to win the lawn bowls women's…",18
+18,0.0,0.0,1.0,BBCNews,0.0,Government to crack down on 'rogue' estate agents https://t.co/s26Dob1oVY,19
+19,0.875,0.0,0.607,BBCNews,0.393,"RT @BBCSport: What a nice surprise 😍💍
+
+Two of @TeamEngland 's basketball players got engaged on court at the Commonwealths. 
+
+Congrats @Jam…",20
+20,-0.886,0.444,0.556,BBCNews,0.0,"Government is tackling violent crime says Communities Secretary @sajidjavid, announcing details for new Offensive W… https://t.co/cYLI53Cipe",21
+21,0.4019,0.0,0.803,BBCNews,0.197,Commonwealth Games: Jamell Anderson and Georgia Jones get engaged on court https://t.co/b8Ot01unS2,22
+22,0.0772,0.101,0.783,BBCNews,0.115,"""Targeting stop and search rather than just randomly going around saying you look like a gang member"" Shadow educat… https://t.co/y380ZOoN4N",23
+23,-0.4404,0.266,0.734,BBCNews,0.0,Woman held after man stabbed in north London https://t.co/j8p0CvUSgP,24
+24,0.4588,0.0,0.7,BBCNews,0.3,Olivier Awards: Could Hamilton get a record haul? https://t.co/soiJzm1Q77,25
+25,-0.4019,0.162,0.738,BBCNews,0.1,"RT @BBCEngland: Hundreds of people have been ""sticking their tongues out at cancer"" in support of a four-year-old girl who was diagnosed wi…",26
+26,0.5707,0.0,0.862,BBCNews,0.138,"RT @BBCSport: The first Home Nations gold of day four went to Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿🏅
+
+Congrats to the men's triple lawn bowls team 👏👉 https://t…",27
+27,0.8306,0.0,0.73,BBCNews,0.27,"RT @BBCSport: 🥇 Northern Ireland win their first medal! 🥇 👏
+
+Rhys McClenaghan takes GOLD in the men's pommel horse! 
+
+At the age of 18! Inc…",28
+28,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: Commonwealth Games #GC2018 
+
+So far on Day 4 (07:00 BST)
+
+England 🥇🥈🥈
+Scotland 🥇🥉🥉
+Wales 🥉
+Northern Ireland
+
+England's Nick M…",29
+29,0.4404,0.0,0.734,BBCNews,0.266,"Corbyn is 'Kremlin's useful idiot', says Boris Johnson https://t.co/bCuDT2nL2O",30
+30,0.4019,0.0,0.748,BBCNews,0.252,Sturgeon aims to boost Scots-China trade with visit https://t.co/tMOswK7WrA,31
+31,0.4215,0.0,0.741,BBCNews,0.259,Saturday Night Takeaway: Applause for McPartlin at finale https://t.co/2VGXGDmyeI,32
+32,-0.6249,0.339,0.661,BBCNews,0.0,'Enough police' to tackle violence rise - Amber Rudd https://t.co/eWiYkYydDg,33
+33,0.0,0.0,1.0,BBCNews,0.0,Ipswich Hospital reviews policy after Ed Sheeran visit https://t.co/KsozKXQO16,34
+34,-0.5574,0.325,0.556,BBCNews,0.119,Legal costs halt thousands of domestic violence cases https://t.co/FDgrK40hB2,35
+35,0.0,0.0,1.0,BBCNews,0.0,Masters 2018: Patrick Reed leads Rory McIlroy by three into final round https://t.co/wCX3WX0tVj,36
+36,0.6369,0.0,0.574,BBCNews,0.426,Peter Kay stage appearance delights Car Share fans https://t.co/PoEbeSjxlR,37
+37,0.4215,0.0,0.641,BBCNews,0.359,Manchester City 2-3 Manchester United https://t.co/fe2a9S6RAn,38
+38,-0.6908,0.402,0.598,BBCNews,0.0,Murder charge over Israel Ogunsola Hackney stabbing https://t.co/sOHZFOtzJs,39
+39,-0.126,0.094,0.83,BBCNews,0.075,"RT @BBCSport: GOAL! Man City 2-0 Man Utd  
+
+Ilkay Gundogan takes a turn in the box ad leaves David de Gea with no chance.
+
+👉 https://t.co/N…",40
+40,-0.7003,0.453,0.547,BBCNews,0.0,Man held for terror offences at Gatwick Airport https://t.co/iJFKKQpH8g,41
+41,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: FT: Everton 0-0 Liverpool
+
+The Toffees almost bagged a last-minute goal after coming into their own in the second half.
+
+Mean…",42
+42,0.5719,0.0,0.709,BBCNews,0.291,Commonwealth Games: England's Adam Peaty wins 100m breaststroke gold https://t.co/8IJPDVzIdY,43
+43,0.4767,0.0,0.866,BBCNews,0.134,"RT @BBCSport: Day 3 - Commonwealth Games #GC2018 
+
+Adam Peaty added to his gold medal haul. 
+Scotland's Neil Fachie equalled the Scottish C…",44
+44,0.7003,0.0,0.608,BBCNews,0.392,Peter Kay's Car Share: Fans praise finale at Blackpool screening https://t.co/MEStaVacWE,45
+45,0.0,0.0,1.0,BBCNews,0.0,Russian spy: Embassy requests meeting with Boris Johnson https://t.co/VH66Y2hGQh,46
+46,0.5719,0.0,0.821,BBCNews,0.179,"RT @BBCSport: The Aussie wins the Women's 500m time trial Commonwealth title, ahead of team-mate Stephanie Morton.
+
+➡ https://t.co/QG2Yuv1N…",47
+47,0.0,0.0,1.0,BBCNews,0.0,Stephen Lawrence: Mother says Met should be 'honest' about investigation https://t.co/YgNSAyqUOV,48
+48,-0.4767,0.279,0.721,BBCNews,0.0,Nine men arrested in Derby child sex raids https://t.co/QguPcmFmPo,49
+49,0.0,0.0,1.0,BBCNews,0.0,Prince Charles gets new Chief title on Vanuatu https://t.co/ajtHH2oEmA,50
+50,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCWorld: Salman Khan, Bollywood superstar, bailed in poaching case https://t.co/nXoRkeloES",51
+51,0.6588,0.0,0.834,BBCNews,0.166,"RT @BBCSport: And a superb final push from Scotland's Duncan Scott gets him the bronze!
+
+Scott finishes in 1:56.50 to claim the final medal…",52
+52,0.7088,0.0,0.763,BBCNews,0.237,"RT @BBCSport: 👏 He's done it! 👏
+
+South Africa's Chad le Clos wins a third straight men's 200m butterfly title - in a Games record 1:54.00…",53
+53,0.0,0.0,1.0,BBCNews,0.0,Sisters give birth in same night at Blackburn Birth Centre https://t.co/0re2p5SQ6a,54
+54,-0.25,0.182,0.818,BBCNews,0.0,GP Cyprian Okoro struck off after naked WhatsApp photos https://t.co/Bs3qobYc4w,55
+55,0.0,0.0,1.0,BBCNews,0.0,Mum flew daughter abroad for surgery after NHS treatment delays in Northern Ireland https://t.co/jfzk7alDiC,56
+56,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCWalesNews: 🐚 Fancy massaging molluscs on your face?
+The humble whelk could be the future of eco-friendly buffing https://t.co/269OhW…",57
+57,0.6239,0.0,0.843,BBCNews,0.157,RT @BBCSport: Wow! It's gold for Sophie Thornhill and Helen Scott in the women's B&amp;VI 1000m time trial final and they've absolutely smashed…,58
+58,0.0,0.0,1.0,BBCNews,0.0,RT @BBCEngland: Two sisters gave birth within five hours of each other at the same birthing centre - with family members rushing between ne…,59
+59,0.0,0.0,1.0,BBCNews,0.0,Needles found on baby changing table in Plymouth McDonald's https://t.co/MwC8p4hl4K,60
+60,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: Here's the very latest #GC2018 medals table.
+
+Lots more could be added in the next few hours. 🙌 
+
+➡ https://t.co/QG2YuuKcq1 #…",61
+61,0.7783,0.0,0.736,BBCNews,0.264,"RT @BBCSport: 👊👊👊
+
+Zoe Smith won a silver medal for @TeamEngland in the women's -63kg weightlifting after compatriot Jack Oliver took silve…",62
+62,0.4019,0.0,0.803,BBCNews,0.197,Old holiday photos plea at Talacre and Gronant to show changes https://t.co/lC4Mh5wJIU,63
+63,0.0,0.0,1.0,BBCNews,0.0,Cambridge college 'touched' by Hawking graffiti https://t.co/RVTA7YrZu5,64
+64,-0.8316,0.527,0.473,BBCNews,0.0,Teenager arrested after homeless man's murder in Maghera https://t.co/HDAdpwLUPD,65
+65,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: What a performance from Zoe Smith.
+
+She is ‘buzzing’ #GC2018 
+
+More on her weightlifting silver: https://t.co/peO67Zx2Ht http…",66
+66,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCSport: Commonwealth Games #GC2018
+
+So far on day 3 (07:00 BST)
+England 🥇🥇🥇🥈🥈
+Wales ➖
+Northern Ireland ➖
+Scotland ➖
+
+Wales' Tesni Eva…",67
+67,-0.6249,0.339,0.661,BBCNews,0.0,London violence: Extra Met Police officers on patrol https://t.co/ERfftZr3aP,68
+68,0.5106,0.0,0.732,BBCNews,0.268,Vietnam rescue dog gives new owner slip in Paris https://t.co/NIYL1zNSKj,69
+69,-0.6249,0.389,0.611,BBCNews,0.0,Scottish school exclusions over weapon attacks at five-year high https://t.co/4emhx9wmL8,70
+70,-0.6369,0.51,0.49,BBCNews,0.0,Holidaymakers warned about fake accommodation bookings https://t.co/tCejhg8g1E,71
+71,0.7506,0.0,0.484,BBCNews,0.516,"Saturday's Sun: ""Free cheers"" (via @hendopolis) #tomorrowspaperstoday https://t.co/qdYhh6n379",72
+72,0.0,0.0,1.0,BBCNews,0.0,"Saturday's Mail: ""Stephen's mother: it's time to move on"" (via @hendopolis) #tomorrowspaperstoday https://t.co/xWQsNuGOvV",73
+73,0.0,0.0,1.0,BBCNews,0.0,New Quay coastal path deaths: Pair named locally https://t.co/V7JbtDpzLO,74
+74,0.0,0.0,1.0,BBCNews,0.0,"Saturday's Express: ""Victory for common sense"" (via @hendopolis) #tomorrowspaperstoday https://t.co/Sl1jDNJ9Ia",75
+75,-0.6597,0.286,0.714,BBCNews,0.0,"Saturday's Star: ""Evil Rose West in hospital dash"" (via @hendopolis) #tomorrowspaperstoday https://t.co/EmdHuGAJQR",76
+76,-0.8271,0.42,0.58,BBCNews,0.0,"Saturday's Telegraph: ""Police abandon two in three burglary victims as crime soars"" (via @hendopolis)… https://t.co/aN9h68BezZ",77
+77,0.0,0.0,1.0,BBCNews,0.0,"Saturday's Independent: ""Skripals to reveal key clues"" (via @hendopolis) #tomorrowspaperstoday https://t.co/JSgU5dRlpK",78
+78,0.5719,0.0,0.657,BBCNews,0.343,"Saturday's Times: ""Top DJ profits from gangs"" (via @hendopolis) #tomorrowspaperstoday https://t.co/sE067ghtfu",79
+79,-0.8625,0.417,0.583,BBCNews,0.0,"Saturday's i: ""Murder probe into Russian's sudden death in Surrey"" (via @hendopolis) #tomorrowspaperstoday https://t.co/4xt8WFU90u",80
+80,0.0,0.0,1.0,BBCNews,0.0,"Saturday's FT: ""US takes aim at Russian oligarchs"" (via @hendopolis) #tomorrowspaperstoday https://t.co/KirnFeVDgl",81
+81,-0.7506,0.368,0.632,BBCNews,0.0,"Saturday's Morning Star: ""Britain protests against Israel's killings in Gaza"" (via @hendopolis)… https://t.co/701glOL1vj",82
+82,0.2023,0.0,0.893,BBCNews,0.107,"RT @BBCSport: FT England 0-0 Wales
+
+Wales stay top of the group.
+
+Reaction: https://t.co/IWSuYRxgwY #bbcfootball https://t.co/zNUbPGb63X",83
+83,-0.7269,0.55,0.45,BBCNews,0.0,No further action after 'burglar' death https://t.co/fH6rW8Jfrd,84
+84,-0.6249,0.291,0.709,BBCNews,0.0,London violence: Met chief says police have control of streets https://t.co/3bhsS0JE7U,85
+85,-0.8555,0.573,0.427,BBCNews,0.0,Grenfell Tower fire 'widow' Joyce Msokeri jailed for fraud https://t.co/s5KSQbUMzh,86
+86,0.25,0.0,0.909,BBCNews,0.091,"RT @BBCSport: Pep Guardiola says Man City were offered the chance to sign Paul Pogba and Henrikh Mkhitaryan in January. 
+
+👉 https://t.co/tA…",87
+87,-0.6486,0.35,0.65,BBCNews,0.0,Sophie Lionnet's alleged killer 'would eat ex-partner raw' https://t.co/EAhXIC6uMC,88
+88,0.0,0.0,1.0,BBCNews,0.0,RT @BBCWorld: When the weather is so cold that you can't bear to get up 🐻 https://t.co/v2F03V5DNw,89
+89,-0.1877,0.07,0.93,BBCNews,0.0,RT @BBCJLandale: Breaking: the BBC has learned that the UK authorities have told Victoria Skripal that she will not be granted a visa to co…,90
+90,0.0,0.0,1.0,BBCNews,0.0,"RT @BBCRealityCheck: Is #violence increasing exponentially?
+https://t.co/ZimW9cq9Kk https://t.co/9lt7OwWYce",91
+91,0.4574,0.0,0.864,BBCNews,0.136,"RT @bbcweather: Warmest day of the year so far in the UK! 16.9C in St James's Park, London. Jo https://t.co/bwJSZg7lL7",92
+92,-0.6124,0.252,0.676,BBCNews,0.072,"RT @BBCWorld: UFC fighter Conor McGregor seen in handcuffs after being charged with assault by NYPD 
+
+https://t.co/I7NCUzoTTt https://t.co/…",93
+93,0.5106,0.0,0.752,BBCNews,0.248,Spain hopeful of Gibraltar deal with the UK by summer https://t.co/VfVl6yKG9o,94
+94,0.6705,0.0,0.732,BBCNews,0.268,"RT @BBCWorld: Amazing Amazon discoveries.
+
+Nine new species found where few scientists have gone before https://t.co/zotjXICtnJ #Longreads…",95
+95,0.2023,0.0,0.847,BBCNews,0.153,UK chains Bargain Booze and Wine Rack sold to Bestway https://t.co/1SOCCBRM5u,96
+96,-0.5423,0.304,0.696,BBCNews,0.0,Electronic tag numbers up as prisoner population falls https://t.co/s0pO3BxfGJ,97
+97,-0.34,0.324,0.676,BBCNews,0.0,Arrest in London teen shooting https://t.co/AYqfTgdD7d,98
+98,0.0,0.0,1.0,BBCNews,0.0,Burglar breaks into Longton house and takes a bath https://t.co/zrgTXwtg29,99
+99,-0.8176,0.299,0.643,BBCNews,0.058,"RT @BBCWorld: Russia's UN ambassador says UK is ""playing with fire"" and has invented a ""fake story"" about poisoning of former spy and his d…",100
+100,0.128,0.0,0.914,CBSNews,0.086,"Tonight, #60Minutes looks at the widespread cyberattack Russian operatives launched on U.S. election systems in 201… https://t.co/KDJgBEZR9v",1
+101,0.2263,0.084,0.788,CBSNews,0.128,"At an illustrious university, famous for taking itself seriously, one student magazine’s staff devotes itself to pu… https://t.co/R1Ksf6Xwnr",2
+102,-0.3071,0.198,0.736,CBSNews,0.065,"Trump Tower fire victim was avid art collector who spent time with Andy Warhol, but fell on hard financial times in… https://t.co/nESndzACzm",3
+103,0.0,0.0,1.0,CBSNews,0.0,WATCH: A golfer fed up with winter weather in the spring decides to tee off in the snow. Guess that's why they don'… https://t.co/1pH2AtGPM2,4
+104,0.0,0.0,1.0,CBSNews,0.0,"Tonight, @Oprah Winfrey reports on a new monument going up in Montgomery, Ala. that documents the lynchings of Afri… https://t.co/0j7LM0pTkK",5
+105,0.4939,0.0,0.856,CBSNews,0.144,"WATCH: 400 decorative boats set sail for the 2018 Qintong Boat Festival, with more than 10,000 participants in colo… https://t.co/pMFWzzN1Im",6
+106,0.0,0.0,1.0,CBSNews,0.0,"Bernie Taupin, Elton John's musical collaborator for over 50 years, is a man of lyrics, and now art… https://t.co/kS4DpxFOSg",7
+107,0.3182,0.14,0.585,CBSNews,0.275,Jimmy Kimmel apologizes for gay joke amid feud with Sean Hannity https://t.co/NSqvyaDcjD https://t.co/8VDKuiI8S2,8
+108,-0.836,0.527,0.473,CBSNews,0.0,Man arrested for Indianapolis knife attack that injured 3 people  https://t.co/wK0mveSbgE https://t.co/O7ESB4td8Y,9
+109,0.0,0.0,1.0,CBSNews,0.0,"Tina Fey is now bringing ""Mean Girls"" -- her 2004 film about teen cliques -- to Broadway, as a musical… https://t.co/Aql7rCffTS",10
+110,0.2023,0.0,0.87,CBSNews,0.13,"Antonio Banderas on playing Pablo Picasso in the new series, ""Genius"" https://t.co/lBWqzsdTDS https://t.co/5xplnqt0sB",11
+111,-0.836,0.372,0.628,CBSNews,0.0,"A suspected chemical attack in the Syrian city of Douma suffocated dozens to death, opposition groups said. Preside… https://t.co/LH5kgM0zZU",12
+112,0.0,0.0,1.0,CBSNews,0.0,Joe Kennedy III talks about following in the family tradition of politics; his stands on healthcare reform and gun… https://t.co/Rgc72E2bvE,13
+113,-0.7096,0.312,0.688,CBSNews,0.0,German police detain 6 people in connection to planned knife attack at Berlin half-marathon https://t.co/q6ggwvT4gs https://t.co/eAliLIGs3p,14
+114,0.0,0.0,1.0,CBSNews,0.0,What has Mark Zuckerberg learned from Facebook's data controversy? https://t.co/S1nsDwju9g https://t.co/9GAwnjyw34,15
+115,-0.6124,0.294,0.706,CBSNews,0.0,Sen. Ben Cardin calls for international response to suspected Syria chemical attack https://t.co/SWuCk2QY0y https://t.co/gGCpfAOICe,16
+116,-0.2263,0.138,0.769,CBSNews,0.092,"Treasury Secretary Steve Mnuchin joined @FaceTheNation to discuss the trade dispute with China, the possibility of… https://t.co/nQ3QtFR7Cz",17
+117,-0.3182,0.113,0.887,CBSNews,0.0,"WATCH: An explosion went off in the aisle of a California store, sending shocked customers running. Police now thin… https://t.co/JSUzkUjpqc",18
+118,0.0,0.0,1.0,CBSNews,0.0,"Ahead of Zuckerberg's testimony, Sen. John Kennedy says privacy is ""too big for Facebook to fix""… https://t.co/kgxOzy6QEF",19
+119,0.0,0.0,1.0,CBSNews,0.0,"WATCH: Explosives detonate underneath a frozen river, sending plumes of ice flying high into the air https://t.co/0HeYxEVfMN",20
+120,0.4404,0.0,0.868,CBSNews,0.132,"Is there a better way to file your taxes? 
+Advocates say a pre-filled tax return system, as used in other countries… https://t.co/RMdYUv0Sad",21
+121,0.0,0.0,1.0,CBSNews,0.0,The Masters 2018: How to watch Round 4 on TV and online https://t.co/b0XMGwexXM https://t.co/HMjwjZ4jvJ,22
+122,0.0,0.0,1.0,CBSNews,0.0,"Sen. John Kennedy joined @FaceTheNation to discuss Facebook CEO Mark Zuckerberg's testimony before Congress, Cambri… https://t.co/4qhvWa3hR6",23
+123,-0.7783,0.274,0.726,CBSNews,0.0,"A fire engulfed an apartment inside Trump Tower in New York on Saturday, killing one man inside and injuring 6 out… https://t.co/QNbDKaojyS",24
+124,-0.6908,0.305,0.695,CBSNews,0.0,"President Trump threatens ""Animal Assad"" and Putin over alleged chemical attack in Syria https://t.co/QkmxBH8NOq https://t.co/377fZEYcAz",25
+125,-0.0516,0.116,0.776,CBSNews,0.108,"Laura Ingraham due back at Fox News following backlash after mocking David Hogg, a survivor of the Florida school s… https://t.co/4Inj3qQkmX",26
+126,-0.7717,0.379,0.621,CBSNews,0.0,"Fire at Trump Tower leaves 1 civilian dead, 6 firefighters with minor injuries https://t.co/wnY6sgxOPV https://t.co/GteQf4TJY9",27
+127,-0.7351,0.419,0.581,CBSNews,0.0,"Dozens suffocate in suspected chemical weapon attack in Syria, opposition says https://t.co/GPqQqurhwm https://t.co/snBl5kHDqK",28
+128,0.0,0.0,1.0,CBSNews,0.0,Worker at store where YouTube shooter bought her pistol speaks out https://t.co/LWhVL3Z5oY https://t.co/3144Fr6HjD,29
+129,0.2263,0.203,0.526,CBSNews,0.271,"Florida school shooting hero blames sheriff, superintendent https://t.co/OWSJkgZlBS https://t.co/WTtiaCyAzd",30
+130,0.0,0.0,1.0,CBSNews,0.0,"Puerto Rico running out of time as storm season approaches, FEMA says https://t.co/PZN7tFDdmr https://t.co/QndtU0Sivo",31
+131,-0.7351,0.419,0.581,CBSNews,0.0,"Dozens suffocate in suspected chemical weapon attack in Syria, opposition says https://t.co/CAhEIlPpEq https://t.co/MJfGuZljzg",32
+132,-0.6124,0.325,0.55,CBSNews,0.125,Al Sharpton and Parkland shooting survivor announce June rally against gun violence https://t.co/XwivxaMyAj https://t.co/5K5kv5QGid,33
+133,-0.7184,0.382,0.529,CBSNews,0.088,Man in legal battle to annul his own death certificate https://t.co/HRU3o9l3Dp https://t.co/kgt5qMKo79,34
+134,0.4215,0.0,0.823,CBSNews,0.177,"Rep. Joe Kennedy III: Arming teachers to make schools safer is ""absurd"" https://t.co/Fmg0PWXJkC https://t.co/Bj2K50jlcm",35
+135,-0.5423,0.259,0.741,CBSNews,0.0,Will Blake Farenthold reimburse taxpayers for $84K harassment settlement? https://t.co/FTdcr7v4Kj https://t.co/wsr76ZwDIb,36
+136,0.5719,0.0,0.709,CBSNews,0.291,"Smithsonian celebrates 50th anniversary of ""2001: A Space Odyssey"" https://t.co/gJmSI2hYi1 https://t.co/z5VUHO6PNP",37
+137,0.0,0.0,1.0,CBSNews,0.0,Heavy rain in Northern California may test spillway at nation's tallest dam https://t.co/g10f10w3IO https://t.co/JNxCDpQM9W,38
+138,-0.7506,0.444,0.556,CBSNews,0.0,Gaza buries journalist killed while covering mass protests https://t.co/75tRocr7K0 https://t.co/uZ3YZBFIAe,39
+139,0.0,0.0,1.0,CBSNews,0.0,Lobbyist tied to condo rented by EPA chief Scott Pruitt speaks out https://t.co/oCbTOrxsrN https://t.co/FOKuHJK8eP,40
+140,-0.5994,0.281,0.719,CBSNews,0.0,Trade war with China: What you need to know https://t.co/omFRAX9rtV https://t.co/BN46bMPo8I,41
+141,-0.2732,0.208,0.792,CBSNews,0.0,Teens say they’re bored with their smartphones https://t.co/E1emEaLQ9Q https://t.co/5lh1GqX1y8,42
+142,-0.9062,0.447,0.553,CBSNews,0.0,"Report: Man accused of killing family told professor, ""I think I need to kill my mom"" https://t.co/8YkFfHJoWS https://t.co/HmLFijG8qs",43
+143,-0.296,0.239,0.761,CBSNews,0.0,"Road collapses in Pittsburgh, prompting evacuations https://t.co/J0q2o3Ywgm https://t.co/dNPG9m3O6X",44
+144,0.0,0.0,1.0,CBSNews,0.0,Howard University sit-in ends after record 9 days https://t.co/atXWIAoa27 https://t.co/9gVn5Zp7jt,45
+145,-0.128,0.2,0.629,CBSNews,0.171,"Jury awards $3M to LAPD officer who claimed sexual harassment, retaliation https://t.co/30VMxgpZZI https://t.co/0plGjinZMO",46
+146,-0.34,0.228,0.633,CBSNews,0.139,"AG Sessions orders ""zero tolerance"" policy on illegal border crossings https://t.co/Rc4lx9thQj https://t.co/o4omTXxI1M",47
+147,-0.7264,0.225,0.775,CBSNews,0.0,PetSmart is drawing more unwanted attention after the death of a third dog in five months at one of its more than 1… https://t.co/gtx990MtMj,48
+148,0.4939,0.0,0.738,CBSNews,0.262,House Oversight Committee reviewing Scott Pruitt condo agreement https://t.co/LW3jPkO1mf https://t.co/2LRdnWzAwS,49
+149,0.5719,0.0,0.709,CBSNews,0.291,"Smithsonian celebrates 50th anniversary of ""2001: A Space Odyssey"" https://t.co/vr3IF72NIy https://t.co/fA2mqJQeuf",50
+150,-0.4939,0.242,0.758,CBSNews,0.0,Mission to find a stolen wallet changes one man's life https://t.co/pH02oCiNZ4 https://t.co/x1nJ3mL0sz,51
+151,0.0,0.0,1.0,CBSNews,0.0,Doors from New York City's famed Chelsea Hotel head to auction https://t.co/z22kMnYTuV https://t.co/Jf6iQ5nvZ0,52
+152,-0.6249,0.339,0.661,CBSNews,0.0,The 9 states where teachers have it worst https://t.co/LG47LEkTMm https://t.co/er86M0V9xu,53
+153,-0.5859,0.348,0.652,CBSNews,0.0,"Even in gun country, Democrats shift towards gun control https://t.co/OZjwuMbErM https://t.co/oaTg0N9b5S",54
+154,-0.4588,0.231,0.769,CBSNews,0.0,YouTube shooting spotlights creators' frustrations with monetization policy changes https://t.co/J5aI5fKXIz https://t.co/xl76Fgx1iM,55
+155,-0.4588,0.2,0.8,CBSNews,0.0,"President Trump freezes out chief of staff John Kelly, says he's ""tired of being told 'no'"" https://t.co/1S4iJYxhGu https://t.co/y1rjFWvASW",56
+156,0.0,0.0,1.0,CBSNews,0.0,Baby delivered after pregnant woman is shot in head in Ohio https://t.co/qooeM004mm https://t.co/dTjUNMlgMZ,57
+157,0.6705,0.0,0.703,CBSNews,0.297,Tennessee may change its Constitution to say God is only source of liberty https://t.co/VR610VMBAT https://t.co/nNHxyjV7uQ,58
+158,-0.5859,0.348,0.652,CBSNews,0.0,"Even in gun country, Democrats shift towards gun control https://t.co/grfx8NdvxW https://t.co/rzcc7E5kGO",59
+159,-0.34,0.156,0.844,CBSNews,0.0,South Carolina state House Republicans introduce bill on secession over gun rights https://t.co/LLJl9nK6AX https://t.co/WRfSjQEDCT,60
+160,-0.743,0.412,0.588,CBSNews,0.0,Carolina Panthers linebacker Thomas Davis suspended for PED violation https://t.co/kPj5ML2rR4 https://t.co/SK7IDGimEu,61
+161,-0.2023,0.196,0.655,CBSNews,0.149,Maine mayor faces backlash over tweeted insult of Parkland shooting survivor https://t.co/JFZ3Lgz7QT https://t.co/ztX9mbZ3Aq,62
+162,-0.4019,0.162,0.838,CBSNews,0.0,"Hart family crash: Body recovered near where SUV went off cliff, sheriff says https://t.co/oLuxXTIiXH https://t.co/tujpUrVlnI",63
+163,0.0,0.0,1.0,CBSNews,0.0,First grader discovers her “new” textbook was used by Blake Shelton — in 1982 https://t.co/N8Np3EuXVZ https://t.co/b2iVE3gYhL,64
+164,-0.34,0.138,0.862,CBSNews,0.0,"""I'm not going to be a Gabby Giffords"": Congressman pulls out gun at constituent meeting https://t.co/WpL6ggoYaR https://t.co/AxpeeHsbef",65
+165,0.34,0.0,0.806,CBSNews,0.194,"Homeland Security to compile database of journalists, media influencers https://t.co/utkB5pTd6q https://t.co/mmEirlITMx",66
+166,-0.34,0.179,0.821,CBSNews,0.0,Trump Tower fire is second 2018 blaze in sprinkler-free residence https://t.co/lqhFJLYbmo https://t.co/vJYee4t3pB,67
+167,-0.2023,0.196,0.655,CBSNews,0.149,Maine mayor faces backlash over tweeted insult of Parkland shooting survivor https://t.co/S3XMaVJiES https://t.co/DBBUTIJ6mu,68
+168,-0.5423,0.36,0.64,CBSNews,0.0,Trump Tower fire: Victim identified as Todd Brassner https://t.co/U4RlYGS1pP https://t.co/fU0jtFvX6x,69
+169,-0.743,0.412,0.588,CBSNews,0.0,Carolina Panthers linebacker Thomas Davis suspended for PED violation https://t.co/7BzDCEFsHV https://t.co/DqgiRuHqEZ,70
+170,-0.0516,0.164,0.685,CBSNews,0.151,Sean Hannity feuds with Jimmy Kimmel over Melania Trump joke https://t.co/BtSlyNTTiy https://t.co/IFVGMtgrwd,71
+171,-0.4939,0.242,0.758,CBSNews,0.0,Mission to find a stolen wallet changes one man's life https://t.co/M2PKBnOZyd https://t.co/lxefZwCmae,72
+172,-0.6705,0.282,0.718,CBSNews,0.0,Miami dad arrested after 8-year-old son brings loaded gun to school in book bag https://t.co/yYLtrwY2D9 https://t.co/pPLS48WrkC,73
+173,0.34,0.0,0.833,CBSNews,0.167,EPA spent millions on security for embattled chief Scott Pruitt: Report https://t.co/hXgRXKuQME https://t.co/0GcRdRYXvl,74
+174,0.7351,0.0,0.64,CBSNews,0.36,Teen who fell into Los Angeles sewer system thanks rescue crews https://t.co/RHidw32sUF https://t.co/IaIUiKKdvp,75
+175,0.0,0.0,1.0,CBSNews,0.0,Doors from New York City's famed Chelsea Hotel head to auction https://t.co/DZoqj5DKel https://t.co/vle0F4pGu3,76
+176,0.4939,0.0,0.738,CBSNews,0.262,House Oversight Committee reviewing Scott Pruitt condo agreement https://t.co/tD4sryDIEz https://t.co/qmdfrt1hay,77
+177,-0.8779,0.552,0.448,CBSNews,0.0,Condemned killer seen abducting young victim on camera to be resentenced https://t.co/rLMlW7Pbyt https://t.co/yoQ3U7kzvY,78
+178,0.0,0.0,1.0,CBSNews,0.0,Earthquakes in northwest Oklahoma include magnitude 4.6 https://t.co/05DtXXxc2e https://t.co/1PCEblrltg,79
+179,0.0,0.0,1.0,CBSNews,0.0,"Steve Spurrier to coach Orlando team in new spring league, Alliance of American Football https://t.co/2ZGESkSvlp https://t.co/aunv2cNGX1",80
+180,0.0,0.0,1.0,CBSNews,0.0,California storm: West Coast still drenched after second rainiest day since 1849 Gold Rush https://t.co/x3uf3JwNBu https://t.co/ViYck8P3uk,81
+181,-0.4588,0.231,0.769,CBSNews,0.0,YouTube shooting spotlights creators' frustrations with monetization policy changes https://t.co/wwMxHRzu8I https://t.co/wrogEcA0W4,82
+182,-0.296,0.155,0.845,CBSNews,0.0,Northern California rains raise flood concerns; warnings and watches in effect https://t.co/jeGeVqBwET https://t.co/0qy3wdmui3,83
+183,0.0,0.0,1.0,CBSNews,0.0,"Older adults can still grow new brain cells, study finds https://t.co/QvvbLsyHET https://t.co/4DnulQfJO9",84
+184,-0.8316,0.444,0.556,CBSNews,0.0,UPDATE: A civilian has died after a fire broke out in NYC's Trump Tower https://t.co/uf0Gb8XpuC https://t.co/jGuHCT8H5y,85
+185,-0.7506,0.33,0.67,CBSNews,0.0,Family outraged after video of toddler frightened by the Easter Bunny goes viral https://t.co/YZYCniGYeM https://t.co/RAao2tYBQE,86
+186,-0.4588,0.333,0.667,CBSNews,0.0,"Doctors warn of ""second wave"" of the flu https://t.co/dqBi324C6L https://t.co/zYDcRA1h0N",87
+187,-0.6705,0.268,0.732,CBSNews,0.0,UPDATE: The FDNY commissioner said 1 person is in critical condition and 4 firefighters suffered minor injuries in… https://t.co/kbxBCa67KM,88
+188,-0.5859,0.304,0.696,CBSNews,0.0,"Trump Tower fire: Fire breaks out on 50th floor, FDNY says https://t.co/kizrQ1Fzgo https://t.co/VTiXQpbiu1",89
+189,-0.8258,0.517,0.351,CBSNews,0.132,"Assault weapons ban doesn't violate 2nd Amendment, judge says https://t.co/8lXMOyntXX https://t.co/PAjqxjdzOY",90
+190,0.0,0.0,1.0,CBSNews,0.0,First grader discovers her “new” textbook was used by Blake Shelton — in 1982 https://t.co/oEL3A8ztlA https://t.co/GQDEeeyNPU,91
+191,-0.34,0.138,0.862,CBSNews,0.0,"""I'm not going to be a Gabby Giffords"": Congressman pulls out gun at constituent meeting https://t.co/jgVR9eUvwj https://t.co/5POjyKMEeT",92
+192,-0.6249,0.291,0.709,CBSNews,0.0,Opioid crisis: Facebook shuts down drug hashtags on Instagram https://t.co/cuIcjS6PWR https://t.co/PNSly4Ea0h,93
+193,0.34,0.0,0.806,CBSNews,0.194,"Homeland Security to compile database of journalists, media influencers https://t.co/7UJs8adrYN https://t.co/Qb9DZzOB2T",94
+194,0.3612,0.0,0.848,CBSNews,0.152,Sean Hannity vows to bash Jimmy Kimmel until he apologizes to Melania Trump https://t.co/F1vuC0pqdw https://t.co/9CHtfktEhu,95
+195,0.6908,0.0,0.769,CBSNews,0.231,YouTube's changes to the way people can profit from popular videos were thrust into the spotlight last week after a… https://t.co/7Z0NIIRNzs,96
+196,-0.34,0.167,0.833,CBSNews,0.0,"President Trump tweeted the fire at NYC's Trump Tower is ""out"" https://t.co/ALSnsTYdUq https://t.co/e3WC9nSDOr",97
+197,-0.5423,0.231,0.769,CBSNews,0.0,JUST IN: Firefighters are battling a fire on the 50th floor of Trump Tower in NYC https://t.co/wAyaj9EdgS https://t.co/9Prxuj040Y,98
+198,-0.5859,0.348,0.652,CBSNews,0.0,"Even in gun country, Democrats shift towards gun control https://t.co/HF1DMzkf88 https://t.co/Iwzchknq1I",99
+199,0.3612,0.0,0.837,CBSNews,0.163,“I have some rather startling news to tell you.”-- Where is Marsha Brantley? Join the investigation Saturday at 10/… https://t.co/n2AWKFs7kT,100
+200,0.0,0.0,1.0,cnnbrk,0.0,Cambridge Analytica whistleblower Christopher Wylie says the data the firm gathered from Facebook could have come f… https://t.co/QaWg4iHeH6,1
+201,-0.7351,0.256,0.744,cnnbrk,0.0,"Trump blamed Russia, Iran and ""Animal Assad"" after reports of a deadly gas attack in Syria. Syrian state news said… https://t.co/jj9GSMrqEw",2
+202,-0.6249,0.221,0.779,cnnbrk,0.0,"Sen. Susan Collins on EPA Administrator Scott Pruitt: “On policy grounds alone, I think Scott Pruitt is the wrong p… https://t.co/yQCLYi2gRn",3
+203,-0.8519,0.383,0.617,cnnbrk,0.0,Maine Sen. Susan Collins condemns apparent chemical weapons attack in Syria as “absolutely horrific” and asks Trump… https://t.co/XnGJORjrPa,4
+204,0.0,0.0,1.0,cnnbrk,0.0,Kudlow explains Trump’s “original beef with Amazon”: “It’s not so much badmouthing … it’s lets have a level playing… https://t.co/8Epu3feJIK,5
+205,0.5709,0.0,0.817,cnnbrk,0.183,WH economic adviser to farmers on tariffs: “This process may turn out to be very benign. You have to take certain r… https://t.co/tHeHtvOKW4,6
+206,-0.4019,0.13,0.87,cnnbrk,0.0,"White House economic adviser Larry Kudlow: “The problem here is China, it is not President Trump … I think Presiden… https://t.co/VHMnVqAq34",7
+207,0.0258,0.174,0.645,cnnbrk,0.181,"Pilots had safety concerns months before NYC helicopter crash, lawyer says https://t.co/rfrMouo7zZ",8
+208,-0.8271,0.352,0.648,cnnbrk,0.0,"A woman was killed and four other people were injured by a lightning strike in White Springs, Florida, the sheriff'… https://t.co/E8OmlCC3yb",9
+209,-0.8271,0.314,0.686,cnnbrk,0.0,"At least one person has died in the fire at Trump Tower in New York. Four firefighters were injured, officials say.… https://t.co/6RefMrsIdh",10
+210,-0.802,0.275,0.725,cnnbrk,0.0,The body of a female was found in the immediate vicinity of a crash in California that killed at least 5 members of… https://t.co/8X31g9PQvu,11
+211,-0.8225,0.297,0.703,cnnbrk,0.0,Several Syrian activist groups say a toxic gas attack killed dozens of people in Ghouta. The Syrian regime says it'… https://t.co/ypWGIYyAnd,12
+212,-0.802,0.397,0.603,cnnbrk,0.0,"1 person was seriously injured in a four-alarm fire at Trump Tower, the New York City Fire Department says… https://t.co/Lpxzxz6GXs",13
+213,-0.7783,0.274,0.605,cnnbrk,0.121,"RT @CNNPolitics: With 16 service members killed in air crashes, a top lawmaker says the ""readiness of the military is at a crisis point"" ht…",14
+214,-0.8225,0.309,0.691,cnnbrk,0.0,"The driver in the vehicle attack in Muenster, Germany, that killed two people was a German citizen, a senior German… https://t.co/rlxpHTjXyN",15
+215,-0.6705,0.2,0.8,cnnbrk,0.0,"Four teenagers who killed a man in Toledo, Ohio, when they dropped a sandbag from a highway overpass have been orde… https://t.co/JXmWtdoEyj",16
+216,-0.6486,0.193,0.807,cnnbrk,0.0,Several people are dead after a vehicle drove into a crowd in Germany. Authorities are treating the incident as a d… https://t.co/XhtGw5KL4F,17
+217,0.0,0.0,1.0,cnnbrk,0.0,"RT @CNNPolitics: Secret, direct talks are underway between the US and North Korea https://t.co/fqASxSS3k2 https://t.co/yh3yvF6lD7",18
+218,-0.3818,0.159,0.752,cnnbrk,0.088,"Bollywood superstar Salman Khan was granted bail Saturday just a day after he was convicted of illegal poaching, hi… https://t.co/BxI1QeRLkX",19
+219,-0.7906,0.304,0.696,cnnbrk,0.0,A crash between a tractor-trailer and a bus carrying a junior league hockey team left 14 people dead in western Can… https://t.co/AtTf5G33U2,20
+220,-0.7906,0.304,0.696,cnnbrk,0.0,A crash between a bus carrying a junior league hockey team and a tractor-trailor left 14 people dead in western Can… https://t.co/G2xzwQhedu,21
+221,-0.6808,0.28,0.72,cnnbrk,0.0,"Longtime Trump confidant Roger Stone warns the President could get caught in a ""perjury trap"" if he talks with spec… https://t.co/wZVnzZokEx",22
+222,-0.5859,0.16,0.84,cnnbrk,0.0,Lawyers for Bill Cosby are asking for a juror in his sexual assault trial to be removed after another prospective j… https://t.co/LZlHuugeqm,23
+223,0.5267,0.0,0.848,cnnbrk,0.152,Justice Department will let all House and Senate intel committee members review the application DOJ and the FBI use… https://t.co/14B8UxiXr8,24
+224,0.0,0.0,1.0,cnnbrk,0.0,RT @CNNMoney: Boeing clinches deal to sell 47 jets to American Airlines https://t.co/p9BGbSLdM9 https://t.co/jfXe2p3Z9u,25
+225,0.5574,0.0,0.777,cnnbrk,0.223,A 9-day student sit-in at Howard University ended after officials agreed to give students a greater voice in univer… https://t.co/hW9ovl9V80,26
+226,0.4019,0.0,0.847,cnnbrk,0.153,"President Trump has begun informally preparing for a possible interview with special counsel Robert Mueller, source… https://t.co/PoIVMCSPzY",27
+227,0.4404,0.0,0.813,cnnbrk,0.187,Exclusive: A Trump foreign policy adviser played key role in the pursuit of possible Hillary Clinton emails from th… https://t.co/aT39dQgnPA,28
+228,0.0,0.0,1.0,cnnbrk,0.0,RT @CNNPolitics: A classified ads website that has allegedly facilitated prostitution and sex trafficking has been seized by federal law en…,29
+229,-0.4497,0.114,0.886,cnnbrk,0.0,"Dow closes down more than 570 points. Stocks are still settling, but it’ll be a loss of more than 2% for the Dow. F… https://t.co/KFqOSSuW0T",30
+230,-0.5574,0.235,0.765,cnnbrk,0.0,"The Dow has fallen more than 700 points on Friday, a drop of more than 2% https://t.co/UaK4VSjnsN https://t.co/3iospNTj51",31
+231,-0.34,0.138,0.862,cnnbrk,0.0,RT @CNNMoney: Facebook overhauls rules for political and issue ads to combat election meddling https://t.co/kCBRkgNY6c https://t.co/oSoaDam…,32
+232,0.34,0.0,0.882,cnnbrk,0.118,"FBI offers $10,000 for information leading to the capture of a contract airline mechanic who may have played a role… https://t.co/mY8ryhAImV",33
+233,-0.765,0.322,0.678,cnnbrk,0.0,"Former Russian spy Sergei Skripal is no longer in critical condition following last month's nerve agent attack, UK… https://t.co/bIHFRpn9iO",34
+234,0.0,0.0,1.0,cnnbrk,0.0,RT @CNNPolitics: BREAKING: The Trump administration unleashes additional sanctions against seven Russian oligarchs with ties to President V…,35
+235,-0.2023,0.132,0.773,cnnbrk,0.095,"The US economy added 103,000 jobs in March, slower than previous months and well below expectations. Unemployment r… https://t.co/V5TtRqrBty",36
+236,-0.6369,0.312,0.577,cnnbrk,0.112,Ultimate Fighting Championship star Conor McGregor was charged with three counts of assault and one count of crimin… https://t.co/yE1S0EYiRH,37
+237,-0.7906,0.292,0.708,cnnbrk,0.0,"A South Korean court has found former President Park Geun-hye guilty on multiple counts of abuse of power, bribery… https://t.co/sfMgblKLu8",38
+238,-0.4019,0.238,0.638,cnnbrk,0.123,Ultimate Fighting Championship star Conor McGregor turned himself in Thursday evening after an alleged bus attack h… https://t.co/HnOC6jmWKm,39
+239,0.4019,0.0,0.87,cnnbrk,0.13,RT @CNNPolitics: Special counsel Robert Mueller's prosecutors reveal that they're using information related to the searches of Paul Manafor…,40
+240,-0.802,0.275,0.725,cnnbrk,0.0,"RT @CNNPolitics: Vice President Mike Pence recalls meeting the ""courageous"" US Air Force Thunderbird pilot who was killed in a crash https:…",41
+241,-0.6124,0.231,0.702,cnnbrk,0.066,"Trump threatened to slap an additional $100 billion in tariffs on China, the latest in a tit-for-tat trade fight be… https://t.co/glD5LKAuNZ",42
+242,0.0,0.0,1.0,cnnbrk,0.0,"Trump says he did not know about a $130,000 hush payment made to Stormy Daniels, his first public acknowledgment of… https://t.co/ePfhNl8eFB",43
+243,0.3182,0.057,0.83,cnnbrk,0.114,Sears and Delta Air Lines say some customer credit card information may have been exposed in a data breach last yea… https://t.co/TEe5tYNiUu,44
+244,-0.296,0.109,0.891,cnnbrk,0.0,The body of missing CDC scientist Timothy Cunningham is found in an Atlanta river. Police called his disappearance… https://t.co/FcitNsKYBM,45
+245,-0.5106,0.21,0.731,cnnbrk,0.059,"Local official says no casualties reported after a fire breaks out at a hospital in Istanbul, causing a number of p… https://t.co/JOmhu3NbFY",46
+246,-0.3182,0.108,0.892,cnnbrk,0.0,US military halts air operations in Djibouti after multiple accidents and at the request of officials there. The Ea… https://t.co/UTTKirhl2H,47
+247,0.0,0.0,1.0,cnnbrk,0.0,"A rare surgeon general's advisory urges more Americans to carry naloxone, a drug also known as Narcan that reverses… https://t.co/PsT8zXf92F",48
+248,-0.7906,0.32,0.68,cnnbrk,0.0,Bollywood star Salman Khan has been sentenced to serve five years in prison after being convicted of illegal poachi… https://t.co/N1FkZHJdxC,49
+249,-0.2732,0.104,0.896,cnnbrk,0.0,"A sterilization breach at a Denver hospital may have put patients at risk for infection of HIV, hepatitis B or hepa… https://t.co/X9UhUAn8JG",50
+250,0.0,0.0,1.0,cnnbrk,0.0,The Trump administration is expected to sanction several Russian oligarchs with ties to President Vladimir Putin ov… https://t.co/i6OtqZxoCT,51
+251,0.34,0.0,0.862,cnnbrk,0.138,"President Trump will deploy National Guard troops to the US-Mexico border, Homeland Security secretary says… https://t.co/EOmCXYi9Cs",52
+252,0.34,0.0,0.876,cnnbrk,0.124,"Facebook says Cambridge Analytica may have improperly shared information on up to 87 million users, sharply revisin… https://t.co/xL7GZkTdX2",53
+253,0.5859,0.0,0.808,cnnbrk,0.192,"Britain's Prince Philip underwent a successful hip surgery and is now recovering in the hospital, Buckingham Palace… https://t.co/rChXUuLNBx",54
+254,0.0,0.0,1.0,cnnbrk,0.0,Trump campaign adviser Roger Stone wrote that he dined with Julian Assange on the same day he predicted WikiLeaks d… https://t.co/vc1wcuADS8,55
+255,0.0,0.0,1.0,cnnbrk,0.0,A new YouTube employee and former aide to Sen. Jeff Flake tweets that shootings have touched his life three times i… https://t.co/EAhvmDADSs,56
+256,0.2732,0.0,0.89,cnnbrk,0.11,"Planned Parenthood president says Jared Kushner and Ivanka Trump offered a ""bribe"" of increased funding if they'd s… https://t.co/5fHhHxsiF3",57
+257,-0.34,0.125,0.817,cnnbrk,0.058,A lawyer who prosecuted Nazis and an activist against life sentences for minors will receive the MLK Nonviolent Pea… https://t.co/6Lc1oGzJQ1,58
+258,0.0,0.0,1.0,cnnbrk,0.0,RT @CNNMoney: Dow opens down more than 500 points after China announces plans for steep tariffs on dozens of American goods. https://t.co/A…,59
+259,0.0,0.0,1.0,cnnbrk,0.0,"The White House has decided on whether the US will withdraw from Syria, Trump's intel chief says. He does not give… https://t.co/ABaDP7W4rD",60
+260,0.0,0.0,1.0,cnnbrk,0.0,Facebook CEO Mark Zuckerberg will appear before a Congressional panel regarding the company's use and protection of… https://t.co/2GSwHiGkex,61
+261,-0.6249,0.212,0.788,cnnbrk,0.0,"China is firing back in the escalating trade tensions with the US, announcing plans for heavy new tariffs on dozens… https://t.co/nCnoupoNoW",62
+262,0.0,0.0,1.0,cnnbrk,0.0,"The woman who shot three people at YouTube headquarters in Northern California has been identified, two law enforce… https://t.co/td6opfPtjc",63
+263,0.6679,0.0,0.756,cnnbrk,0.244,Special counsel Mueller has told Trump's lawyers that the President is not currently a criminal target of the Russi… https://t.co/bqt6HyI1Iz,64
+264,-0.3182,0.113,0.887,cnnbrk,0.0,"The shooter at YouTube HQ is believed to have known at least one of the victims, officials say… https://t.co/BFsmsoSOzv",65
+265,0.0,0.0,1.0,cnnbrk,0.0,"The Trump administration proposes tariffs on about 1,300 Chinese goods, targeting industries including aerospace, t… https://t.co/qefXwTtgqP",66
+266,-0.7351,0.246,0.754,cnnbrk,0.0,"At least four people wounded at YouTube HQ, San Bruno police chief says. Suspected shooter is dead after she appare… https://t.co/FUy9IFba6s",67
+267,-0.7351,0.307,0.693,cnnbrk,0.0,"The suspected shooter at YouTube headquarters in California was a woman and is dead, officials say.… https://t.co/9rCHv6jbSJ",68
+268,0.0,0.0,1.0,cnnbrk,0.0,"Ambulances are transporting patients to hospitals after a shooting was reported at YouTube headquarters, officials… https://t.co/1xIiBiORWw",69
+269,0.0,0.0,1.0,cnnbrk,0.0,"Police are responding to reports of a shooting at YouTube headquarters in San Bruno, California… https://t.co/ZEGMXseckQ",70
+270,0.1868,0.097,0.736,cnnbrk,0.168,"RT @CNNMoney: Dow jumps 388 points, recapturing most of Monday's drop. Amazon rebounds 1.5% after volatile day. Nasdaq gains 1%. https://t.…",71
+271,0.1779,0.0,0.918,cnnbrk,0.082,"The President is taking questions with Baltic leaders. Earlier, he told them, ""nobody has been tougher on Russia"" t… https://t.co/jzbHNzB0pF",72
+272,0.0,0.0,1.0,cnnbrk,0.0,President Trump says the US military will be used to guard the border with Mexico until a wall is built… https://t.co/eGCgis2vF4,73
+273,-0.7783,0.302,0.698,cnnbrk,0.0,"A Dutch lawyer is the first person sentenced in the Russia probe, getting 30 days in prison for lying to Mueller's… https://t.co/WdAWbJzgDh",74
+274,0.0,0.0,1.0,cnnbrk,0.0,"Prince Philip, the 96-year-old husband of the UK's Queen Elizabeth II, is in the hospital today for planned hip sur… https://t.co/06q7VSw7GY",75
+275,-0.9201,0.389,0.611,cnnbrk,0.0,"The UN says the ongoing war in Yemen is now the world's worst humanitarian crisis, with more than 22 million people… https://t.co/sU1Adc3dse",76
+276,0.0,0.0,1.0,cnnbrk,0.0,The White House confirmed EPA Administrator Pruitt spoke with the President last night. Trump offered Pruitt encour… https://t.co/BCDg8hsZdo,77
+277,0.128,0.0,0.889,cnnbrk,0.111,"RT @CNNPolitics: Beto O'Rourke, Ted Cruz's Senate challenger, raises a hefty $6.7M https://t.co/U30Wl6YXFh https://t.co/nBcNw1kAgs",78
+278,-0.5106,0.177,0.823,cnnbrk,0.0,RT @CNNMoney: Dow rebounds 100 points after Monday's drop. Tesla soars 6% after saying no need to raise money this year. https://t.co/A9OlU…,79
+279,-0.6369,0.292,0.708,cnnbrk,0.0,Train services severely disrupted in France as rail workers strike over proposed labor reforms. Walkouts are planne… https://t.co/aMP43GwQtP,80
+280,0.0,0.0,1.0,cnnbrk,0.0,"General Motors ends its decades-long practice of reporting monthly sales, saying quarterly reports are more useful… https://t.co/YKlnbyJfcm",81
+281,-0.0772,0.061,0.939,cnnbrk,0.0,"The UK's Environment Secretary says the country is set to introduce one of the world's toughest ivory bans, with a… https://t.co/OtN5JgLLov",82
+282,-0.8658,0.35,0.65,cnnbrk,0.0,"A Kuwaiti court has sentenced a Lebanese man and his wife to death in absentia for the murder of a Filipina maid, t… https://t.co/vVyZkTscly",83
+283,0.7717,0.0,0.717,cnnbrk,0.283,Villanova beats Michigan 79-62 to win the US men’s college basketball championship for second time in three years… https://t.co/lzuKzdvAwg,84
+284,0.1531,0.1,0.773,cnnbrk,0.127,Dating app Grindr says it will stop sharing the HIV status of its users with other companies https://t.co/7NtaAF6rza https://t.co/6ZOyAKKjHo,85
+285,0.0,0.0,1.0,cnnbrk,0.0,RT @CNNPolitics: The White House is looking into EPA Administrator Scott Pruitt's housing situation https://t.co/zBzqgUj4lH https://t.co/J2…,86
+286,0.5267,0.0,0.866,cnnbrk,0.134,RT @CNNPolitics: The Justice Department announces it will evaluate immigration judges on how many cases they close and how fast they hear c…,87
+287,-0.296,0.145,0.855,cnnbrk,0.0,RT @CNNMoney: The Trump administration aims to lower drug prices for seniors https://t.co/6G52sxBAEh https://t.co/JJCx3bKASi,88
+288,0.4019,0.0,0.876,cnnbrk,0.124,"RT @CNNPolitics: Special counsel Robert Mueller is looking into Roger Stone's ties to WikiLeaks, The Wall Street Journal reports https://t.…",89
+289,0.128,0.0,0.909,cnnbrk,0.091,A Florida middle school teacher who hosted a white supremacist podcast that she called satire has resigned… https://t.co/BevpUM0JSd,90
+290,-0.34,0.103,0.897,cnnbrk,0.0,"Democratic Rep. Elizabeth Esty, who is under fire for how she handled the dismissal of her chief of staff, says she… https://t.co/3NBiXa1smL",91
+291,-0.6908,0.241,0.759,cnnbrk,0.0,"Fake marijuana is tied to 56 cases of severe bleeding in Illinois, including two deaths. The state's health departm… https://t.co/Zog1PKnztO",92
+292,-0.7351,0.276,0.664,cnnbrk,0.059,RT @CNNMoney: BREAKING: The Dow drops 459 points as trade tensions rise. Amazon loses 5% after Trump's Twitter attacks on the internet reta…,93
+293,0.0,0.0,1.0,cnnbrk,0.0,"A dingy, old painting found in an Iowa art gallery's closet turns out to be the work of a 16th-century Dutch master… https://t.co/KFBoYmXijf",94
+294,0.2263,0.0,0.899,cnnbrk,0.101,"Trump's lawyer begins the process of appealing a judge's decision to allow a defamation case brought by a former ""A… https://t.co/XsHSokdhNx",95
+295,-0.1027,0.091,0.909,cnnbrk,0.0,RT @CNNMoney: Coal power company files for bankruptcy and asks Trump for a bailout https://t.co/DdxsqCZg9F https://t.co/NXlPwRjrfT,96
+296,-0.4588,0.136,0.864,cnnbrk,0.0,"Asheville, North Carolina, is expected to release videos from nine police body cameras related to the beating and t… https://t.co/4Y3qE0269k",97
+297,0.5267,0.0,0.848,cnnbrk,0.152,Trump says the Justice Department and FBI are dragging their feet in handing over documents to Congress related to… https://t.co/5AZHZptziG,98
+298,-0.25,0.105,0.895,cnnbrk,0.0,"Oklahoma City public schools are cancelled tomorrow due to a teacher walk out. In Kentucky, teachers are protesting… https://t.co/yQP7cD3QzJ",99
+299,-0.7184,0.328,0.588,cnnbrk,0.083,"RT @CNNMoney: Dow drops 500 points as Amazon tumbles, trade war fears rise https://t.co/LTK27mh7dn https://t.co/IXjUlHYSio",100
+300,-0.4939,0.352,0.494,FoxNews,0.154,Parkland massacre survivor says she hid under dead classmate's body https://t.co/0aIJndwxS6,1
+301,-0.5574,0.205,0.795,FoxNews,0.0,"On “America’s News HQ,” former Arizona @GovBrewer slammed @JerryBrownGov’s illegal immigration policies and praised… https://t.co/jMZqqsJP1V",2
+302,-0.4404,0.162,0.838,FoxNews,0.0,".@cvpayne: ""This last month we saw the second-lowest unemployment rate for black Americans in history."" https://t.co/6Ls7sqgZkL",3
+303,0.0,0.0,1.0,FoxNews,0.0,RT @FoxBusiness: .@Facebook to send Cambridge Analytica data-use notices on Monday https://t.co/EJLtiXUt2G,4
+304,0.4588,0.0,0.842,FoxNews,0.158,"Brandon Judd: ""I have to applaud President @realDonaldTrump for putting the @USNationalGuard on the border because… https://t.co/4uRviSLXh5",5
+305,0.3612,0.0,0.872,FoxNews,0.128,DEVELOPING: North Korea has told the @realDonaldTrump administration that Kim Jong Un is ready to discuss denuclear… https://t.co/mMmIqNvaud,6
+306,0.0,0.0,1.0,FoxNews,0.0,Blooming red tulips are seen in the gardens of the South Lawn of the @WhiteHouse. https://t.co/5tbQb72pjG,7
+307,-0.9538,0.464,0.536,FoxNews,0.0,RT @EricShawnTV: Chemical weapons were banned by the 1925 Geneva Protocol after their horrific use in World War One. It is an attack on wor…,8
+308,0.4939,0.0,0.873,FoxNews,0.127,"Rain or shine, soldiers keep watch over the Tomb of the Unknown Soldier to honor the service members who made the u… https://t.co/rB1qmAgE4X",9
+309,0.0,0.0,1.0,FoxNews,0.0,"Kim Jong Un willing to discuss getting rid of North Korea's nukes, US says https://t.co/Gh5W2f8Ea7",10
+310,-0.2023,0.122,0.878,FoxNews,0.0,"RT @foxnewspolitics: Kennedy dynasty faces a reckoning as controversial film hits theaters - via @brookefoxnews 
+https://t.co/IRLIK1G7f2",11
+311,0.0,0.0,1.0,FoxNews,0.0,"Lt. Col. Travis Walters: ""@TexasGuard is able to deploy immediately to meet the call of our governor and the call o… https://t.co/pXZnKP88Fw",12
+312,0.4019,0.0,0.87,FoxNews,0.13,".@DiamondandSilk: ""If a privately owned bakery has to go against their Christian values to bake a cake, then Mark Z… https://t.co/NUgKC7p4FJ",13
+313,0.3612,0.0,0.878,FoxNews,0.122,BREAKING NEWS: North Korea has told the @realDonaldTrump administration that Kim Jong Un is ready to discuss denucl… https://t.co/rt9bQNZIBv,14
+314,-0.802,0.396,0.604,FoxNews,0.0,NY Times Op-Ed slamming 'Chappaquiddick' film as 'character assassination' spurs online outrage https://t.co/51am3hJGgV,15
+315,0.0,0.0,1.0,FoxNews,0.0,"Tommy Kilbride: ""These landing mat fences don't work. So anyone that says the wall won't work has never been on the… https://t.co/trVC5RNsK3",16
+316,-0.3612,0.122,0.878,FoxNews,0.0,".@TomFitton: ""@TheJusticeDept was a mess under Loretta Lynch. This meeting was an indication or an example of the w… https://t.co/xl47PvFyaN",17
+317,0.0,0.0,1.0,FoxNews,0.0,"On @foxandfriends, former political science Professor @carolmswain sounded off on a North Carolina elementary schoo… https://t.co/B8BZ0amlzn",18
+318,0.3612,0.0,0.848,FoxNews,0.152,BREAKING: North Korea tells the Trump administration that it is ready to discuss denuclearization. https://t.co/gR9KrFO9gw,19
+319,0.0,0.0,1.0,FoxNews,0.0,States sending troops to Mexico border. https://t.co/lROHVeMd6u,20
+320,-0.7964,0.336,0.664,FoxNews,0.0,"Amb. Dan Gillerman on Syria suspected chemical attack: ""I'm disappointed at the reaction so far of the internationa… https://t.co/ASRalWh3Hq",21
+321,0.0,0.0,1.0,FoxNews,0.0,Trump slams Obama over not crossing 'red line' in Syria with 'Animal Assad' https://t.co/FZVYN2pmON,22
+322,0.5267,0.0,0.841,FoxNews,0.159,"TONIGHT on ""Life, Liberty, &amp; Levin,"" @SarahPalinUSA sits down with @marklevinshow to discuss the border. Tune in at… https://t.co/6q5mzImK8S",23
+323,-0.6486,0.306,0.694,FoxNews,0.0,Outrage at Kimmel comments on Melania surges as protest petition exceeds 50K signatures https://t.co/riRjV4TDX4,24
+324,-0.2023,0.153,0.847,FoxNews,0.0,Wallace Presses Dem Rep: 'Is Nancy Pelosi a Liability for Democrats?' https://t.co/RnQDsoSwKQ,25
+325,0.0,0.0,1.0,FoxNews,0.0,"A large Canadian flag at half-mast is seen from a cemetery in #Humboldt, Saskatchewan, on Sunday, April 8, 2018. 15… https://t.co/Wo12db9hiQ",26
+326,-0.4404,0.127,0.873,FoxNews,0.0,"A firefighter looks out from the window of a damaged apartment in Trump Tower in New York on Saturday, April 7, 201… https://t.co/GbVHvxh0hi",27
+327,-0.802,0.275,0.725,FoxNews,0.0,"The @USArmy has identified the two pilots killed in an Apache helicopter crash night at Ft. Campbell, Ky, as Chief… https://t.co/IX3m9sRudo",28
+328,0.0,0.0,1.0,FoxNews,0.0,Sen. Jeff Flake's son seeks new civil trial against Joe Arpaio https://t.co/rqc9nLB9Tm,29
+329,0.0,0.0,1.0,FoxNews,0.0,RT @EricShawnTV: I anchor at 4 pm EDT @FoxNews with @ArthelNeville: Amb. Dan GIllerman joins me on how @POTUS @realDonaldTrump should respo…,30
+330,0.5719,0.0,0.719,FoxNews,0.281,"Jimmy Kimmel defends mean-spirited dig at Melania Trump, apologizes for lewd Hannity joke https://t.co/nDUlZflGz1",31
+331,-0.8519,0.43,0.57,FoxNews,0.0,"Alleged 'potted-plant serial killer' may be linked to grisly, unsolved 1970s murders https://t.co/PyoBhghZfX",32
+332,0.2263,0.238,0.476,FoxNews,0.286,"Trump Tower fire victim was prominent art dealer, friends with Andy Warhol https://t.co/ENvsX7P2Po",33
+333,0.0,0.0,1.0,FoxNews,0.0,"On @foxandfriends,"" @TheRealJohnHCox, the leading Republican candidate for governor of California, talked about the… https://t.co/w5RvPGupsg",34
+334,-0.4019,0.229,0.684,FoxNews,0.087,Kudlow tries to calm trade war fears but says Trump 'not bluffing' about China tariffs https://t.co/dUUt2XtL4G,35
+335,-0.5423,0.259,0.741,FoxNews,0.0,.@KatrinaPierson Rips @MichelleObama For Comparing President @realDonaldTrump to Bad Parent https://t.co/i5YUgeOqGX,36
+336,-0.9186,0.52,0.48,FoxNews,0.0,Victims slowly identified in Canadian hockey team bus crash disaster; death toll rises to 15 https://t.co/XO2PX5Hdt5,37
+337,-0.6597,0.31,0.69,FoxNews,0.0,.@AlanDersh: President @realDonaldTrump Won't Repeat Fmr. President @BarackObama's 'Tragic Mistake' With Syria 'Red… https://t.co/3hF4HUBKMJ,38
+338,0.5994,0.0,0.795,FoxNews,0.205,".@KarlRove on border security: ""There are things along the border that the National Guard can do in a moment like t… https://t.co/KBWLTbuIiS",39
+339,0.4767,0.06,0.765,FoxNews,0.175,"Ala. teen turns down 25-year plea deal, gets sentenced to 65 years instead - and laughs https://t.co/pueYqOQ9tk",40
+340,0.3612,0.0,0.889,FoxNews,0.111,"Michael Needham: ""For 20 years liberal elites have promised us that if we just integrate China into the global trad… https://t.co/uDqskeLdQN",41
+341,-0.5423,0.257,0.743,FoxNews,0.0,"Facebook must shape up, or it will be 'broken up,' senator warns https://t.co/Q8RozjpiiZ (via @christocarbone)",42
+342,0.4215,0.0,0.865,FoxNews,0.135,"Joe Crowley on 2018 midterms: ""[Voters] have an opportunity here to change course and correction, that's the beauty… https://t.co/tBkOZzpk7x",43
+343,0.1531,0.081,0.814,FoxNews,0.105,"Joe Crowley: ""The notion of the tax cut is going to lead to somehow help the American people along I think is a sca… https://t.co/iV1n2roaQN",44
+344,-0.2838,0.107,0.893,FoxNews,0.0,".@GovBrewer: ""It's absolutely unfortunate, not only for California but for our country, that we have people in elec… https://t.co/va4Sgwq03r",45
+345,0.0,0.0,1.0,FoxNews,0.0,.@JudgeJeanine: It's Time for Republicans to Start Wielding Power https://t.co/IpEU7L5UtG https://t.co/BDl4Ch10a8,46
+346,0.0,0.0,1.0,FoxNews,0.0,.@POTUS and the economy. #FoxNewsSunday https://t.co/iu4Jtpp8X4,47
+347,0.0,0.0,1.0,FoxNews,0.0,"RT @EricShawnTV: I anchor @FoxNews with @ArthelNeville at 4 pm EDT: The brazen vote hacking by Moscow. ""It was the Russians, it may not be…",48
+348,0.296,0.068,0.811,FoxNews,0.122,".@larry_kudlow on cutting spending: ""I think the Republican Party on the Hill has finally figured out It's really n… https://t.co/viEFlwOJXk",49
+349,-0.7003,0.453,0.547,FoxNews,0.0,"Berlin half-marathon attack plot foiled, 6 detained, officials say https://t.co/Ta03VbuEyf",50
+350,0.6249,0.0,0.814,FoxNews,0.186,".@larry_kudlow: ""Look, [@POTUS is] great negotiator. He has a whole history of that. But in this process, tariffs h… https://t.co/og6BFQu8W4",51
+351,-0.4588,0.158,0.842,FoxNews,0.0,".@larry_kudlow on tariffs: ""China's response was highly unsatisfactory and I think that's unfortunate. We do have c… https://t.co/SjGUp9gESa",52
+352,0.7783,0.0,0.657,FoxNews,0.343,"On @foxandfriends, @cvpayne praised President @realDonaldTrump's economic policies and their positive results for A… https://t.co/ngeFIXxfu0",53
+353,0.0,0.0,1.0,FoxNews,0.0,"Car slams into Texas home, triggering gas explosion and injuring 5 people (via @travfed)  https://t.co/AfkA6UoaEP",54
+354,-0.4137,0.116,0.884,FoxNews,0.0,".@JudgeJeanine: ""Who do we blame for the repeated trashing of @FLOTUS? Why is it open season on the First Family? W… https://t.co/ejSgX4XtmX",55
+355,-0.6597,0.31,0.69,FoxNews,0.0,.@AlanDersh: President @realDonaldTrump Won't Repeat Fmr. President @BarackObama's 'Tragic Mistake' With Syria 'Red… https://t.co/DBmOx7EvPj,56
+356,-0.5574,0.217,0.783,FoxNews,0.0,"On “America’s News HQ,” former Arizona @GovBrewer slammed California @JerryBrownGov’s illegal immigration policies… https://t.co/fD7dapFV6R",57
+357,0.0,0.0,1.0,FoxNews,0.0,"On @foxandfriends, Harris County Sheriff Mike Jolley - who recently posted a sign outside the sheriff's office that… https://t.co/Nj36krRPcr",58
+358,0.7096,0.072,0.622,FoxNews,0.306,".@robertjeffress: ""The reason Evangelicals overwhelmingly support @POTUS is not because he has a perfect past. None… https://t.co/BIF5gnrDIA",59
+359,0.0,0.0,1.0,FoxNews,0.0,'Disgusted' mom discovers used needles on McDonald's baby changing table https://t.co/b6pJ9t29Ve,60
+360,0.3818,0.0,0.822,FoxNews,0.178,'Citizens Have a Right to Protect Themselves': GA Sheriff Explains Viral Concealed-Carry Sign… https://t.co/AInt7rwbx3,61
+361,-0.7003,0.42,0.58,FoxNews,0.0,"Berlin half-marathon attack plot foiled, 6 detained, officials say https://t.co/7tLI5e7v5u https://t.co/hp1EOvXFJ6",62
+362,0.0,0.0,1.0,FoxNews,0.0,Elizabeth Hurley slammed for wearing cleavage-baring dress with her 16-year-old son https://t.co/hG2osQzsf5,63
+363,-0.7184,0.273,0.727,FoxNews,0.0,".@TheRealJohnHCox: ""This criminal idea of the sanctuary state movement - the people are upset about this because it… https://t.co/snCudXuYsI",64
+364,-0.8555,0.461,0.539,FoxNews,0.0,"Fire at Trump Tower leaves one man dead, several firefighters injured; @BryanLlenas reports. https://t.co/nNnUbhorwR",65
+365,0.0,0.0,1.0,FoxNews,0.0,"On @foxandfriends, @JudicialWatch President @TomFitton said that @AGLynch needs to be candid about the infamous tar… https://t.co/j7ZGExKRTb",66
+366,-0.4404,0.162,0.838,FoxNews,0.0,".@cvpayne: ""This last month we saw the second-lowest unemployment rate for black Americans in history."" https://t.co/pcyPRMezaX",67
+367,0.0,0.0,1.0,FoxNews,0.0,Pro-gun rights activists rally against new measures on firearm sales in Vermont https://t.co/d90JsaUjGS,68
+368,0.0,0.0,1.0,FoxNews,0.0,President @realDonaldTrump slams former Preisdent @BarackObama over not crossing 'red line' in Syria with 'Animal A… https://t.co/9xcIMbqpLi,69
+369,0.2263,0.238,0.476,FoxNews,0.286,"Trump Tower fire victim was prominent art dealer, friends with Andy Warhol https://t.co/ENvsX7P2Po",70
+370,-0.4767,0.237,0.763,FoxNews,0.0,.@RepMcCaul: Russia and Iran Complicit in Syria Chemical Attack https://t.co/qMDZp854AC https://t.co/wSAICfMoSh,71
+371,-0.4404,0.225,0.775,FoxNews,0.0,President @realDonaldTrump attacks 'garbage' @washingtonpost; calls Kelly story 'hit job' https://t.co/3E6edclo30,72
+372,0.5267,0.0,0.841,FoxNews,0.159,"TONIGHT on ""Life, Liberty, &amp; Levin,"" @SarahPalinUSA sits down with @marklevinshow to discuss the border. Tune in at… https://t.co/sc5DQqk7Sv",73
+373,-0.8271,0.384,0.568,FoxNews,0.048,"On Twitter, @VP Mike Pence backed up President @realDonaldTrump's condemnation of a suspected chemical attack in Sy… https://t.co/sUYgvqdvxo",74
+374,-0.5267,0.134,0.866,FoxNews,0.0,"Lt. Gen. H. Steven Blum (Ret.): ""The only people that view this as a threat are the coyotes and the cartels - and j… https://t.co/oXLG7iabFY",75
+375,-0.5994,0.259,0.741,FoxNews,0.0,"Body recovered near California cliff crash site, may be one of the missing Hart children https://t.co/doPkiMcdex",76
+376,-0.3612,0.122,0.878,FoxNews,0.0,".@TomFitton: ""@TheJusticeDept was a mess under Loretta Lynch. This meeting was an indication or an example of the w… https://t.co/JgHWUcCTil",77
+377,-0.2263,0.091,0.909,FoxNews,0.0,RT @EricShawnTV: I anchor @FoxNews with @ArthelNeville at 12 Noon EDT: @POTUS @realDonaldTrump calls out Vladimir Putin for the suspected S…,78
+378,0.3818,0.0,0.885,FoxNews,0.115,".@FrankLuntz: ""It's [@POTUS's] own tweets that are causing so much of the trouble... He should be focused on the ec… https://t.co/XGIbrWFzaT",79
+379,-0.1531,0.109,0.806,FoxNews,0.085,".@FrankLuntz: ""I think the Republicans are in deep trouble in the House and the Senate as well. If the election wer… https://t.co/xyCpb4Sl9k",80
+380,0.0,0.0,1.0,FoxNews,0.0,Trump slams Obama over not crossing 'red line' in Syria with 'Animal Assad' https://t.co/FZVYN2pmON,81
+381,-0.1779,0.134,0.866,FoxNews,0.0,".@MZHemingway: ""We have a media that is obsessed with palace intrigue."" #MediaBuzz https://t.co/OaK9EhfEfE",82
+382,0.3818,0.0,0.822,FoxNews,0.178,'Citizens Have a Right to Protect Themselves': GA Sheriff Explains Viral Concealed-Carry Sign https://t.co/W4d4UYyRPC,83
+383,0.0,0.0,1.0,FoxNews,0.0,"Russian 'hack' of 2016 voter rolls leaves Galesburg, Illinois, reeling https://t.co/1D8e8Ab9uU",84
+384,-0.6486,0.306,0.694,FoxNews,0.0,Outrage at Kimmel comments on Melania surges as protest petition nears 50K signatures https://t.co/riRjV4TDX4,85
+385,-0.4404,0.172,0.828,FoxNews,0.0,".@RepMcCaul: ""I remember @JohnKerry saying, 'We took all their chemical weapons away.' Obviously not.""… https://t.co/QFnt9kVPTY",86
+386,-0.296,0.099,0.901,FoxNews,0.0,".@RepMcCaul: ""When the drug cartel sees our military down there, it's going to stop them before they can get in.""… https://t.co/tLRD5XlhTb",87
+387,0.0,0.0,1.0,FoxNews,0.0,".@RepMcCaul: ""This cannot stand in the civilized world."" #SundayFutures @MariaBartiromo https://t.co/5Ckpt8UPBw",88
+388,-0.34,0.146,0.854,FoxNews,0.0,".@RepMcCaul: ""I also blame Russia and Iran. I think they're complicit with this."" #SundayFutures @MariaBartiromo https://t.co/UdSpv3WNye",89
+389,-0.4404,0.172,0.828,FoxNews,0.0,".@RepMcCaul: ""I remember @JohnKerry saying, 'We took all their chemical weapons away.' Obviously not.""… https://t.co/9H0185LjnO",90
+390,-0.6249,0.227,0.773,FoxNews,0.0,".@RepMcCaul: ""It's a humanitarian crisis, it's barbaric... There has to be a consequence to this."" #SundayFutures… https://t.co/IQ7QFeCjQf",91
+391,0.4019,0.0,0.803,FoxNews,0.197,".@TGowdySC: ""I think we could see a [second] special counsel."" #SundayFutures @MariaBartiromo https://t.co/YyDV8NRL2v",92
+392,0.4588,0.0,0.864,FoxNews,0.136,".@RepMcCaul: ""Since last year, crossings have gone up 200%, last month up nearly 40%. I think this bold action by… https://t.co/xEfjpi5Fac",93
+393,-0.296,0.099,0.901,FoxNews,0.0,".@RepMcCaul: ""When the drug cartel sees our military down there, it's going to stop them before they can get in.""… https://t.co/vQFv6AFTtL",94
+394,-0.9022,0.425,0.575,FoxNews,0.0,President @realDonaldTrump responds to Syria poison gas attack which has killed at least 40 according to activists… https://t.co/KxoZ7c6Ls9,95
+395,0.0,0.0,1.0,FoxNews,0.0,"RT @FoxNewsSunday: On the possibility of running for Speaker if Democrats take the House after 2018 Midterms, @repjoecrowley tells Chris: ""…",96
+396,0.4019,0.0,0.87,FoxNews,0.13,".@DiamondandSilk: ""If a privately owned bakery has to go against their Christian values to bake a cake, then Mark Z… https://t.co/E7173gL0d8",97
+397,0.4019,0.0,0.769,FoxNews,0.231,".@DiamondandSilk on @facebook: ""Who makes a determination on what's unsafe?"" https://t.co/tWnR1jZS58",98
+398,0.0,0.0,1.0,FoxNews,0.0,".@DiamondandSilk to @facebook: ""Why are you censoring two women of color, two black women?"" https://t.co/I2gSsAicX0",99
+399,0.0,0.0,1.0,FoxNews,0.0,"RT @FoxNewsSunday: White House Chief Economic Adviser Larry Kudlow tells Chris: ""We’re not going to end up in a trade war."" https://t.co/3m…",100
+400,-0.1779,0.159,0.841,nytimes,0.0,Oh for the Days of the Making-Of Featurette — Seriously https://t.co/5arbjPZTdI,1
+401,-0.6124,0.357,0.643,nytimes,0.0,Deutsche Bank Replaces C.E.O. Amid Losses and Lack of Direction https://t.co/JlnPWBzntE,2
+402,0.7579,0.0,0.772,nytimes,0.228,"RT @nerdishtendency: You can see the joy in movement in my first story for @nytimes, a look at a party where musicians and dancers get toge…",3
+403,-0.1779,0.195,0.637,nytimes,0.167,"""President Xi and I will always be friends, no matter what happens with our dispute on trade,” President Trump twee… https://t.co/dAvlL6seAK",4
+404,0.0,0.0,1.0,nytimes,0.0,The Denver Post is in open revolt against its owner https://t.co/Lw62YzaCPk,5
+405,-0.1531,0.187,0.659,nytimes,0.154,"Common Sense: With Tesla in a Danger Zone, Can Model 3 Carry It to Safety? https://t.co/KjYFEtsMgv",6
+406,0.3612,0.079,0.753,nytimes,0.168,"RT @brooksbarnesNYT: ‘A Quiet Place’ Is a Huge No. 1 at the Box Office, Boosting Paramount ... At $50M twice what was expected and, out of…",7
+407,-0.7717,0.427,0.573,nytimes,0.0,"Amid Fears of Trade War, Trump Predicts China Will Relent https://t.co/uWmmVeLe4h",8
+408,0.0,0.0,1.0,nytimes,0.0,Gov. Rick Scott of Florida is expected to announce on Monday that he's running for the U.S. Senate against Bill Nel… https://t.co/yFympY459r,9
+409,-0.2023,0.118,0.802,nytimes,0.08,"For many women in the 5 boroughs of New York, training is a gateway into the world of competitive fighting https://t.co/6VsTR5Gp1I",10
+410,0.34,0.0,0.893,nytimes,0.107,"RT @nytimesarts: A trove of paintings, mementoes from the film ""Gladiator,"" prop horses, guitars, diamond rings and costumes went up for au…",11
+411,0.2732,0.0,0.826,nytimes,0.174,Here's how to start a fitness routine – and stick to it https://t.co/d8GMnfw7rF,12
+412,0.5256,0.0,0.825,nytimes,0.175,"""Facebook has got to start treating influencers with more respect. These people need to make a living."" https://t.co/PYdR7TbN5U",13
+413,0.0,0.0,1.0,nytimes,0.0,"Charlie Brown, Snoopy and the rest of the Peanuts gang are part of a new public art project in cities around the wo… https://t.co/WcKvqpJTxt",14
+414,0.4069,0.121,0.732,nytimes,0.146,"""I will do my best to see to it that I never am this ignorant again,"" said a teenager who was sentenced to read boo… https://t.co/qFtGzcqw0z",15
+415,-0.2023,0.112,0.808,nytimes,0.081,RT @cdcaron: It has been nearly five years since the Syrian government agreed to purge its chemical weapons stockpile. But the chemical war…,16
+416,0.2732,0.0,0.9,nytimes,0.1,"As marijuana use has increased, ER doctors say they've been seeing a steady flow of patients with the telltale symp… https://t.co/SyK0Tm11ph",17
+417,-0.0516,0.112,0.787,nytimes,0.101,"""I admit that I approached 'Chappaquiddick' with a measure of skepticism and a tremor of dread,"" @aoscott writes https://t.co/zae3KIxOMX",18
+418,0.4404,0.0,0.868,nytimes,0.132,"In Opinion
+
+A former chancellor of the NYC public schools lays out steps that people ""of good conscience might take… https://t.co/J8cscMPDc4",19
+419,0.7535,0.0,0.756,nytimes,0.244,"They may happily coexist in your phone, but Bumble and Tinder, 2 of the world’s most popular dating apps, are at wa… https://t.co/dvB2z1dzXz",20
+420,-0.7717,0.288,0.712,nytimes,0.0,RT @nytimesworld: An Indian film actress who staged a topless protest against sexual harassment in the movie industry has been accused of d…,21
+421,-0.7096,0.269,0.731,nytimes,0.0,Bill Cosby's retrial on sexual assault charges starts Monday. Here's how the second trial will be different. https://t.co/V3d7pVWkUt,22
+422,0.0772,0.074,0.837,nytimes,0.089,A top White House official said the Trump administration would not rule out a missile strike to retaliate against t… https://t.co/jF0IASWwcY,23
+423,0.0,0.0,1.0,nytimes,0.0,The crystals that may have helped Vikings navigate northern seas https://t.co/GFiSkwp4yQ,24
+424,0.0,0.0,1.0,nytimes,0.0,"She started a Facebook group 2 years ago for middle-aged women. It has grown to over 7,000 members. What could poss… https://t.co/emlaZ7vhIB",25
+425,0.25,0.0,0.905,nytimes,0.095,"The documents, taken together, show that ISIS, if only for a finite amount of time, realized its dream: to establis… https://t.co/HjnXK8MhvV",26
+426,0.0,0.0,1.0,nytimes,0.0,Thousands of internal ISIS documents unearthed by The Times reveal how ISIS built a state of administrative efficie… https://t.co/2t1MQJt3Sd,27
+427,-0.6124,0.2,0.8,nytimes,0.0,"The world knows ISIS for its brutality, but the militants did not rule by the sword alone. They wielded power throu… https://t.co/yKSaowgXkk",28
+428,-0.1531,0.062,0.938,nytimes,0.0,"“We had no choice but to go back to work,” Hamoud said. “We did the same job as before. Except we were now serving… https://t.co/8nrYleFdHF",29
+429,0.3612,0.0,0.878,nytimes,0.122,"Weeks after ISIS militants seized Mosul, public servants like Muhammad Nasser Hamoud were ordered to return to thei… https://t.co/kCuArZmFHD",30
+430,-0.1027,0.188,0.68,nytimes,0.132,"Michigan will stop providing free bottled water to the city of Flint. City officials criticized the move, noting th… https://t.co/VTPDECtoV9",31
+431,-0.3182,0.103,0.897,nytimes,0.0,"RT @nytpolitics: 6 of Scott Pruitt’s efforts to delay or roll back Obama-era regulations — on issues including pesticides, lead paint and r…",32
+432,-0.8591,0.463,0.537,nytimes,0.0,Updated: At least 49 people were killed in a suspected chemical attack in Syria https://t.co/iwWEBDhpwz,33
+433,0.0,0.0,1.0,nytimes,0.0,"RT @melbournecoal: The Denver Post’s owner, a hedge fund based in NY, also owns nearly 100 other newspapers across the country. Many, inclu…",34
+434,0.0258,0.0,0.939,nytimes,0.061,Many people taking antidepressants are saying they cannot quit because of withdrawal symptoms they were never warne… https://t.co/9ZMCrwTMC4,35
+435,0.3724,0.0,0.882,nytimes,0.118,He said he was trying to show that firearms aren't dangerous. Democrats called for an investigation into whether wh… https://t.co/Gaxl3OJBDk,36
+436,0.2732,0.107,0.683,nytimes,0.21,Republican leaders are raising money and energizing conservatives with warnings about Democrats who want to impeach… https://t.co/FTUUMvrCCy,37
+437,0.4215,0.0,0.865,nytimes,0.135,"Facebook's advice to Mark Zuckerberg as he prepares to appear before Congress: Be humble, agreeable and as forthrig… https://t.co/AyQ6KpU4sO",38
+438,0.0,0.0,1.0,nytimes,0.0,🤒 + 🤧 ? https://t.co/bA3rrgBZWA,39
+439,-0.34,0.194,0.806,nytimes,0.0,South Carolina Congressman Pulls Out Gun at a Meeting With Voters https://t.co/YMk9GnMAlS,40
+440,0.0,0.0,1.0,nytimes,0.0,"Polls, politics and population shifts that are forcing an overhaul of colleges and universities across the country https://t.co/Qnwz88cIWv",41
+441,0.0,0.0,1.0,nytimes,0.0,"Long-term use of the medications is surging in the U.S., according to an analysis by The New York Times. One reason… https://t.co/dCJNjdl4xg",42
+442,-0.4588,0.143,0.857,nytimes,0.0,A sociologist chronicled the human toll of eviction in Milwaukee in a 2016 book. A new project may reveal just how… https://t.co/FOoGwqBFJr,43
+443,-0.4404,0.157,0.763,nytimes,0.08,"The death of Judge Stephen Reinhardt, combined with other vacancies, means Trump has the chance to push the Ninth C… https://t.co/OwUe8gGTM3",44
+444,0.6124,0.0,0.792,nytimes,0.208,"Is the doctor in? In this new medical age of urgent care centers and retail clinics, that’s not a simple question. https://t.co/hEzO4a5XuV",45
+445,0.6124,0.058,0.731,nytimes,0.212,As Trump moves to fulfill one of the central promises of his campaign — to get tough on China — he faces a potentia… https://t.co/XFbaG5vdSh,46
+446,-0.6486,0.346,0.654,nytimes,0.0,Dozens Suffocate in Syria as Government Is Accused of Chemical Attack https://t.co/QkSLmxo4XG,47
+447,0.128,0.0,0.93,nytimes,0.07,"Legal experts and White House officials say that in Scott Pruitt's haste to undo government rules, he has often bee… https://t.co/5ElAVBW1oq",48
+448,-0.8625,0.434,0.508,nytimes,0.059,Breaking News: A suspected chemical attack killed dozens of people in a rebel stronghold in Syria. Aid groups blame… https://t.co/rWtqFa83v1,49
+449,0.0,0.0,1.0,nytimes,0.0,Trump issued a memo directing his administration to move quickly to bring an end to the practice of “catch and rele… https://t.co/u9tadPzfSe,50
+450,0.0,0.0,1.0,nytimes,0.0,First Words: Why Have We Soured on the ‘Devil’s Advocate’? https://t.co/c01gH2sjil,51
+451,0.3612,0.0,0.884,nytimes,0.116,John Bolton and Mike Pompeo both have ties to individuals and groups promoting a worldview that regards Islam not s… https://t.co/TqzBN1BHv5,52
+452,0.0,0.0,1.0,nytimes,0.0,😋https://t.co/dhilLWqdGp,53
+453,0.2732,0.0,0.826,nytimes,0.174,Here's how to start a fitness routine – and stick to it https://t.co/kPTQU2IVsc,54
+454,0.0,0.0,1.0,nytimes,0.0,Trilobites: The Crystals That May Have Helped Vikings Navigate Northern Seas https://t.co/GI9dRoaexp,55
+455,0.0258,0.184,0.628,nytimes,0.188,"Depending on your perspective, Reddit represents either the best of the web, or the worst https://t.co/YbT5ZhtOPP",56
+456,-0.3939,0.112,0.888,nytimes,0.0,"When are Prince Harry and Meghan Markle getting married? 
+What if my invitation was lost in the mail? 
+Will there b… https://t.co/W74Nu4EyZF",57
+457,0.0,0.0,1.0,nytimes,0.0,"“I deal with divorced people. I deal with older singles who are already in their 30s, 40s, 50s and beyond. Sometime… https://t.co/80XKiNLZBO",58
+458,-0.3182,0.161,0.839,nytimes,0.0,A Cardi B Reveal and an Odd R. Kelly Sketch on ‘Saturday Night Live’ https://t.co/qowJMa9y7q,59
+459,0.3612,0.0,0.815,nytimes,0.185,What it was like for @jswatz to finally write his will https://t.co/cmSQOEP01R,60
+460,0.3612,0.0,0.828,nytimes,0.172,Tech Fix: Unknown Tech Brands Aren’t Like Groceries. Don’t Just Grab Them. https://t.co/A9tUnpznzs,61
+461,-0.3818,0.133,0.867,nytimes,0.0,A new book recounts the long and unfinished battle for immigration reform through the stories of young activists https://t.co/pxjIzUtWkq,62
+462,0.0,0.0,1.0,nytimes,0.0,"Black students continue to be disciplined at school more often and more harshly than their white peers, the Governm… https://t.co/7Iivkq84tL",63
+463,-0.5849,0.21,0.79,nytimes,0.0,"""When Sergei V. Skripal got poisoned, this was very serious for them,"" said a resident of a Russian town where loca… https://t.co/BfuxaAursZ",64
+464,-0.9062,0.637,0.363,nytimes,0.0,"Dozens Reported Killed in Suspected Syria Gas Attack, Damascus Denies https://t.co/M1pYjpBAcY",65
+465,-0.2263,0.147,0.853,nytimes,0.0,"""Get a will. Really. Dying without one — 'intestate' — is a drag for everyone."" https://t.co/WJeqIAEGcZ",66
+466,0.7096,0.0,0.731,nytimes,0.269,Astronomers developed algorithms to study distant galaxies and stars. Now they can help save endangered species fro… https://t.co/5yX62aVAJb,67
+467,0.0,0.0,1.0,nytimes,0.0,The race to automate stores is underway https://t.co/gXjMzSIJzG,68
+468,0.0,0.0,1.0,nytimes,0.0,Why does bar soap clog the bathroom drain? https://t.co/JwRqjyI68o,69
+469,-0.34,0.231,0.769,nytimes,0.0,Rangers Fire Alain Vigneault After Rare Playoff-Less Season https://t.co/3K8ja2BIjk,70
+470,0.5423,0.053,0.772,nytimes,0.175,"""I am looking for comfort books, in the way that others turn to comfort food in tough times. Do you have any more i… https://t.co/0iQk4kNXss",71
+471,0.1531,0.0,0.904,nytimes,0.096,"The stars of ""Jersey Shore"" and ""Trading Spaces"" return for reboots wiser, but not warier https://t.co/hxDR7ssQHf",72
+472,0.5023,0.0,0.871,nytimes,0.129,"“There’s so much more to Jay Pharoah. I’m a piñata, man. You hit me, I bust open with all this talent. You get a Re… https://t.co/r8bvASZDhS",73
+473,0.0,0.0,1.0,nytimes,0.0,"Her company, 23andMe, does DNA tests that can tell you what countries your ancestors were from or what genetic dise… https://t.co/NaCr66hTQi",74
+474,0.3182,0.0,0.901,nytimes,0.099,Meg Wolitzer wanted less to write some sort of State of Feminism novel than to explore ideas that have been marinat… https://t.co/IRzTFF9W5o,75
+475,-0.296,0.18,0.82,nytimes,0.0,Make your own oven-roasted chicken shawarma. No food cart necessary. https://t.co/JGTP43IUwT,76
+476,0.0,0.0,1.0,nytimes,0.0,John Kasich is not *not* running for president https://t.co/Mvv7xojFEz,77
+477,0.0,0.0,1.0,nytimes,0.0,The yearbook staff at Marjory Stoneman Douglas High School knew they'd have to memorialize the shooting in their ye… https://t.co/Xay7Z2dsxr,78
+478,0.0,0.0,1.0,nytimes,0.0,Take extra caution with obscure tech brands. Take a pause and do some research. https://t.co/qBLP7J8d2k,79
+479,0.0,0.0,1.0,nytimes,0.0,"Neither a traditional tutor nor a straight-up therapist, a ""homework therapist"" is an amalgam of the two https://t.co/abx6za5LLg",80
+480,0.0,0.0,1.0,nytimes,0.0,"‘Big Brother’ in India Requires Fingerprint Scans for Food, Phones and Finances https://t.co/XVdURtZ6hi",81
+481,-0.6908,0.207,0.793,nytimes,0.0,The tiny elevator in a Brooklyn housing project will forever be tainted by the murder of a 6-year-old inside nearly… https://t.co/L1CyDzBru1,82
+482,0.6597,0.0,0.769,nytimes,0.231,"""My parents don’t want to just throw money around now. I’m getting a great education at a fraction of the cost."" https://t.co/s0SkPCiYb3",83
+483,-0.765,0.485,0.515,nytimes,0.0,Poison Gas Attack Reported by Syrian Anti-Government Activists https://t.co/OMPF0xpd7x,84
+484,0.0258,0.142,0.711,nytimes,0.147,"Evan Rachel Wood has turned her trauma into good. On ""Westworld"" and in life. https://t.co/usjnP8YMav https://t.co/zM1UBvTNf1",85
+485,0.0,0.0,1.0,nytimes,0.0,"Some airlines are embracing the idea of healthier flying, offering calorie-conscious menus and new exercise videos https://t.co/FUWLkhx4TN",86
+486,0.0,0.0,1.0,nytimes,0.0,Paleontologists have discovered dozens of jumbo-size footprints belonging to dinosaurs that lived 170 million years… https://t.co/7PSERESmVB,87
+487,0.0,0.0,1.0,nytimes,0.0,"Emma González. 
+Rose McGowan. 
+The Dora Milaje soldiers in Black Panther. 
+Natalie Portman in “V for Vendetta."" 
+Ch… https://t.co/rbGmXRrjcZ",88
+488,0.25,0.138,0.652,nytimes,0.21,"NEWS ANALYSIS: Though Deadly, Gaza Protests Draw Attention and Enthusiasm https://t.co/HXLmKi9lFp",89
+489,-0.0258,0.217,0.569,nytimes,0.214,"Last fall, we shared readers' 13-word stories of romance, obsession and heartbreak. Here are some more of the thous… https://t.co/g3eMYasllp",90
+490,-0.2263,0.113,0.821,nytimes,0.067,"Once you immerse yourself in the tasty, convenient world of sheet-pan suppers, you won’t want to stop https://t.co/uVuyCowd0C",91
+491,0.7351,0.0,0.725,nytimes,0.275,The snow monkeys of Japan like a nice warm bath. Scientists wanted to find out the real reason they sought out the… https://t.co/m0DcYjlvbW,92
+492,0.0,0.0,1.0,nytimes,0.0,"Children’s Books: If Graphic Novels Are Hip for Adults, Why Not Picture Books? https://t.co/CFsPm9Mj1w",93
+493,-0.34,0.194,0.806,nytimes,0.0,"Fire Breaks Out at Trump Tower in Manhattan, Police Say https://t.co/7QTTQLIGy8",94
+494,-0.3612,0.238,0.762,nytimes,0.0,Opinion: Mark Zuckerberg Can Still Fix This Mess https://t.co/6fyEudwKP4,95
+495,-0.5267,0.206,0.794,nytimes,0.0,She was photographed extending her middle finger at Trump's motorcade. Then she lost her job. Now she's suing. https://t.co/jar4XaGnHO,96
+496,-0.1779,0.166,0.704,nytimes,0.131,"Breaking News: Brazil’s former president surrendered to begin a 12-year prison term for corruption, a stunning fall… https://t.co/ONp9cgIIOs",97
+497,0.0,0.0,1.0,nytimes,0.0,Ex-President ‘Lula’ of Brazil Surrenders to Serve 12-Year Jail Term https://t.co/jzaxWVHl0u,98
+498,0.0,0.0,1.0,nytimes,0.0,"South Carolina's former first lady, Jenny Sanford, wasn’t looking to remarry after her high-profile divorce, until… https://t.co/8dXoWv4Bj6",99
+499,0.34,0.0,0.888,nytimes,0.112,"Of all possible family heirlooms, a home is perhaps the most complicated: a thing of tangible value, that can be li… https://t.co/pM4qfyrUkc",100
